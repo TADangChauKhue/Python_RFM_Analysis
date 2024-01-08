@@ -1,7 +1,7 @@
 # Python_RFM_Analysis
 Analyze segmentation customer bases on RFM model to help Marketing team to deploy suitable marketing program for each customer group.
 ## Introduction
-SuperStore is a UK-based and registered non-store online retail using Python. Using Pandas, Numpy to conduct Customer segmentation analysis by exploring Transactions dataset with the help of RFM Model. Use Seaborn & Matplotlib to visualize insights into comprehensible charts.
+SuperStore is a UK-based and registered non-store online retail. In this project, I use Pandas, Numpy to conduct Customer segmentation analysis by exploring Transactions dataset with the help of RFM Model. I also use Seaborn & Matplotlib to visualize insights into comprehensible charts.
 
 **1.Business question**
 
